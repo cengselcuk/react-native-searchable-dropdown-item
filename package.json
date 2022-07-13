@@ -1,0 +1,20 @@
+{
+  "name": "react-native-searchable-dropdown-item",
+  "version": "1.0.0",
+  "description": "React native package to use searchable dropdown",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dropdown",
+    "search",
+    "searcable",
+    "list",
+    "item",
+    "react",
+    "native"
+  ],
+  "author": "cengselcuk",
+  "license": "ISC"
+}
